@@ -1,0 +1,14 @@
+{
+   "contactos": [
+      {
+         "nombre": "Pepe",
+         "correo": "pepe@hotmail.es",
+         "fechanac": "05-03-1997"
+      },
+      {
+         "nombre": "Rosa",
+         "correo": "rosa@gmail.com",
+         "fechanac": "01-02-1999"
+      }
+   ]
+}
